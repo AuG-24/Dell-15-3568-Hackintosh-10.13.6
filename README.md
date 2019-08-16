@@ -53,7 +53,7 @@ Step 13:- You will have two partitions .. Click on E drive ... not F (Names migh
 
 Step 14:- Delete EFI Folder ..
 
-Step 15:- Download EFI Folder from this post ..
+Step 15:- Download EFI.zip Folder from this post .. Extract it..
 
 Step 16:- Paste this in the place of that EFI Folder..
 
