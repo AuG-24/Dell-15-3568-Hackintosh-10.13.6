@@ -20,7 +20,7 @@ HDMI
 CD Drive
 SD Card Reader
 
-Wifi :- Qualcomm Artheros QCA 9377 (Wont Work .. You Will need to buy a USB WiFi adaptor .. I prefer TP Link TP-WN725N ..Its cheap .. and is supported on High Sierra..)
+Wifi :- Qualcomm Artheros QCA 9377 (Wont Work .. You Will need to buy a USB WiFi adaptor .. I prefer TP Link TL-WN725N ..Its cheap .. and is supported on High Sierra..)
 Bluetooth :- Works out of the box in High Sierra..
 
 
